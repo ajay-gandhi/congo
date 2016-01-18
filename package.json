@@ -1,0 +1,30 @@
+{
+  "name": "congo",
+  "version": "0.0.1",
+  "description": "Congo knows like everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay-gandhi/congo.git"
+  },
+  "keywords": [
+    "congo",
+    "lol"
+  ],
+  "author": "Ajay Gandhi + Kevin Chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajay-gandhi/congo/issues"
+  },
+  "homepage": "https://github.com/ajay-gandhi/congo/#readme",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "node-wolfram": "0.0.1",
+    "request-promise": "^0.4.3",
+    "textbelt": "^0.0.2",
+    "voice.js": "^0.1.5"
+  }
+}

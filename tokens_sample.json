@@ -1,0 +1,5 @@
+{
+  "auth": "google voice auth token",
+  "rnr": "google voice rnr token",
+  "wolfram": "wolfram alpha api key"
+}
